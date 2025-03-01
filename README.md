@@ -1,5 +1,18 @@
-# Vue 3 + TypeScript + Vite
+# 天启管理系统
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+基于 Vue 3 + TypeScript + Vite 构建的现代化管理系统
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 技术栈
+
+- Vue 3
+- TypeScript
+- Vite
+- Element Plus
+- Vue Router
+- Pinia
+
+## 开发说明
+
+本项目使用 Vue 3 的 `<script setup>` 语法，详情请参考 [script setup 文档](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup)。
+
+关于项目设置和IDE支持的更多信息，请查看 [Vue TypeScript 指南](https://vuejs.org/guide/typescript/overview.html#project-setup)。
